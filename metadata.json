@@ -1,0 +1,13 @@
+{
+  "name": "ResellAI: Marketplace Intel & Listing Generator",
+  "description": "AI-powered product intelligence and optimized listing generator for Meesho and Flipkart resellers.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI Product Analysis",
+    "Profit Calculator",
+    "SEO Listing Generator",
+    "Marketplace Pricing Engine"
+  ]
+}
